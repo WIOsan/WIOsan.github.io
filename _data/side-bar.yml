@@ -1,0 +1,8 @@
+# the avatar on the sidebar
+avatar:
+  path: /assets/img/profile.png
+  alt: WIOsan 的头像
+
+# the text on the sidebar
+site_title: WIOsan的星尘小站
+site_description: 星然在这里等你回家 ✨
