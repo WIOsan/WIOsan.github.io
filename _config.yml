@@ -228,3 +228,4 @@ jekyll-archives:
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
+  - jekyll-seo-tag
